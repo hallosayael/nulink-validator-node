@@ -82,7 +82,7 @@ cd /root && mkdir nulink && cp /root/geth-linux-amd64-1.10.23-d901d853/keystore/
 chmod -R 777 /root/nulink
 ```
 
-**Ubah " <Isi Passwordmu> " menjadi password yang Kamu gunakan di awal tadi
+**Ubah "< Isi Passwordmu >" menjadi password yang Kamu gunakan di awal tadi
 ```
 export NULINK_KEYSTORE_PASSWORD=<Isi Passwordmu>
 ```
