@@ -96,7 +96,7 @@ sudo apt install screen
 ```
 
 ## 4. Buat screen
-- Ubah " <nama screen> " menjadi apapun bebas
+- Ubah " < nama screen > " menjadi apapun bebas
 ```
 screen -S <nama screen>
 ```
